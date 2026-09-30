@@ -1,5 +1,5 @@
 '''
-Code sourced from https://docs.opencv.org/4.13.0/dc/dbb/tutorial_py_calibration.html
+Code partially sourced from https://docs.opencv.org/4.13.0/dc/dbb/tutorial_py_calibration.html
 Modified by Jason - live video version.
 '''
 import time
