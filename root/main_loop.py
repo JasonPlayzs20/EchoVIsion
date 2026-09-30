@@ -11,8 +11,8 @@ while True:
     retu, imp_up = up_cam.read()
     retd, imp_down = down_cam.read()
 
-    cv2.imshow("test", imp_up)
-    cv2.imshow("test2", imp_down)
+    # cv2.imshow("test", imp_up)
+    # cv2.imshow("test0", imp_down)
     key = cv2.waitKey(10)
     # results = model.track(imp_up)
     results = model(imp_up)
